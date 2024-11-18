@@ -1,4 +1,5 @@
-## Data Dictionary 
+# Data Dictionary
+ 
 | Field Name      | Data Type   | Description                              |
 |-----------------|------------|------------------------------------------|
 | record_id       | Integer    | Unique identifier for each record        |

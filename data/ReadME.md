@@ -4,7 +4,6 @@
 Website url of where data is from 
 
 ## Folders 
----
 
 ### Source
 Original, unmodified data after downloading, scraping, etc. 
