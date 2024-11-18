@@ -9,7 +9,7 @@ Website url of where data is from
 Original, unmodified data after downloading, scraping, etc. 
 
 ### In-process 
-Data currently being edited, cleaned, and modified 
+Data currently being edited, cleaned, and modified. 
 
 ### Final 
 Data after all cleaning, processing, and analyzing. 
