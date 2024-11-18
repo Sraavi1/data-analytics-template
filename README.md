@@ -1,8 +1,20 @@
-# data-analytics-template
+# Data-Analytics-Template
 Starting template for data projects
 
-## To-Do List 
-[ ] Task 1
-[x] Task 2
-[ ] Task 3
-[ ] Task 4
+![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Project Description 
+Short paragraph of what the project is about 
+
+## Instructions
+
+## Results and Conclusion 
+Project findings 
+
+## Future Work 
+What could be done to the project in the future
+
+## Acknowledgements
+Cite any data sources or references
+    
+
